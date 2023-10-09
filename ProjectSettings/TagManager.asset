@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - GridGenerateFlag
+  - Start
+  - Ending
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Platform
+  - Background
+  - Bouncy
+  - Ladder
+  - Hazard
+  - Exit
+  - Coins
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 2181016603
+    locked: 0
+  - name: Platform
+    uniqueID: 4094837571
+    locked: 0
+  - name: Ladder
+    uniqueID: 1591781279
+    locked: 0
+  - name: Bouncy
+    uniqueID: 3234347035
+    locked: 0
+  - name: Player
+    uniqueID: 209677503
+    locked: 0
