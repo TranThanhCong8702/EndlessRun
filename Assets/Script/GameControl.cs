@@ -41,9 +41,9 @@ public class GameControl : MonoBehaviour
         }
         else
         {
-            //SceneManager.LoadScene(0);
+            lives = 0;
+            livestxt.text = lives.ToString();
             playerMovement.Die();
-            Reset();
             FindObjectOfType<SceneMaintain>().SelfDes();
             sceneController.StopST();
         }
